@@ -1,0 +1,19 @@
+.big-secondary-button {
+  border-radius: 4px;
+  box-sizing: border-box;
+  border: 1px solid;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1em;
+  line-height: 2;
+  min-height: 24px;
+  min-height: 1.5rem;
+  padding: 0 0.5em;
+  text-align: center;
+  text-decoration: none;
+  -webkit-appearance: none;
+
+  background: #1c23a5;
+  border-color: #1c23a5;
+  color: #fff;
+}
